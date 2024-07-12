@@ -1,0 +1,48 @@
+Este archivo está licenciado bajo los siguientes términos:
+
+1. No hay garantía: Este código se proporciona tal cual, sin garantías de ningún tipo.
+2. Créditos: Si utilizas este código, debes dar crédito al autor original.
+3. Uso no militar: Está prohibido utilizar este código para propósitos militares.
+
+(C) [2024] [Benjamin_salas]
+
+This file is licensed under the following terms:
+
+1. No warranty: This code is provided as-is, without any warranties.
+2. Credits: If you use this code, you must give credit to the original author.
+3. Non-military use: It is prohibited to use this code for military purposes.
+
+(C) [2024] [Benjamin_salas]
+
+Este arquivo está licenciado sob os seguintes termos:
+
+1. Sem garantia: Este código é fornecido "como está", sem garantias de qualquer tipo.
+2. Créditos: Se você usar este código, deve dar crédito ao autor original.
+3. Uso não militar: É proibido usar este código para fins militares.
+
+(C) [2024] [Benjamin_salas]
+
+Этот файл лицензирован по следующим условиям:
+
+1. Отказ от гарантий: Этот код предоставляется "как есть", без каких-либо гарантий.
+2. Кредиты: Если вы используете этот код, вы должны указать авторство оригинала.
+3. Не военное использование: Использование этого кода в военных целях запрещено.
+
+
+(C) [2024] [Benjamin_salas]
+
+このファイルは以下の条件でライセンスされています：
+
+1. 保証なし: このコードは現状のまま提供されており、いかなる保証もありません。
+2. クレジット: このコードを使用する場合、原著者にクレジットを与える必要があります。
+3. 軍事利用禁止: このコードを軍事目的で使用することは禁止されています。
+
+(C) [2024] [Benjamin_salas]
+
+इस फ़ाइल का लाइसेंस निम्नलिखित शर्तों के अनुसार है:
+
+1. कोई गारंटी नहीं: यह कोड ऐसे ही प्रदान किया जाता है, किसी भी प्रकार की कोई गारंटी के बिना।
+2. स्रोत क्रेडिट: इस कोड का उपयोग करने पर, आपको मूल लेखक को क्रेडिट देना होगा।
+3. सैन्य उपयोग निषिद्ध: इस कोड का सैन्य उद्देश्यों के लिए उपयोग करना निषिद्ध है।
+
+(C) [2024] [Benjamin_salas]
